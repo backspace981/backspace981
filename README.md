@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @backspace981
 - 👀 I’m interested in Web developing.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Front end developing.
+- 💞️ I’m looking to collaborate....
 - 📫 How to reach me ...
 
 <!---
